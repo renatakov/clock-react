@@ -169,13 +169,13 @@ body {
 
 .clock .hand.second {
   width: 4px;
-  height: 45%;
+  height: 48%;
   background-color: rgba(240, 23, 23, 0.884);
   border: none;
 }
 .clock .hand.minute {
   width: 4px;
-  height: 42%;
+  height: 41%;
   background-color: black;
   border: none;
 }
